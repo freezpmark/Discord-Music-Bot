@@ -1,0 +1,23 @@
+{
+    "timezone": "Europe/Vienna",
+    "surveillance": {
+        "channel_id": "1058633423301902429"
+    },
+    "bots_settings": {
+        "caroline": {
+            "activity": "YOU",
+            "cog_blacklist": ["surveillance", "music"],
+            "prefix": "."
+        },
+        "glados": {
+            "activity": "/play",
+            "cog_blacklist": ["ai_algo", "korean"],
+            "prefix": "?"
+        },
+        "wheatley": {
+            "activity": "/help",
+            "cog_blacklist": ["ai_algo", "surveillance", "music"],
+            "prefix": "!"
+        }
+    }
+}
