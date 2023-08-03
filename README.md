@@ -3,7 +3,7 @@
 <img src="https://github.com/freezpmark/music-discord-bot/blob/961c5fbe201b0583c3e7f1613efda06fa3ac8274/screenshot.png" height="400"/>
 
 Discord Music bot supported with Slash Commands and Requests tracking. It has clean interface and is easy to run!  
-Also includes the main template function that I use in my personal bot.
+Also includes the `main.py` template that I use in my personal bot.
 
 ## 🧑‍💻 Usage:
  - install Python
@@ -52,7 +52,7 @@ There are also some optional variable settings you can set in `config.json`:
 | ⏭️         | Skips the current song                     |                                                           |
 | 🔁         | Loops the queue                            |                                                           |
 | 🔂         | Loops currently playing track              |                                                           |
-| 🔀         | Shuffles the queue of songs that weren't yet played          |                                         |
+| 🔀         | Shuffles the queue of songs that weren't yet played           |                                        |
 | `play`     | Searches and plays/adds the track into queue                  | `search`: search prompt / URL          |
 | `playlist` | Allows you to pick tracks from 25 last songs in the playlist  | `playlist_url`: url of playlist        |
 | `search`   | Gives you list of tracks to choose from the search prompt     | `search`: search prompt                |
@@ -68,4 +68,4 @@ There are also some optional variable settings you can set in `config.json`:
 ## 👀 Example
 (There will be a gif file added soon that will showcase the usage)  
 
-The app has not yet been fully tested and there are still a few TODOs to do in the code.
+Also, the app has not yet been fully tested and there are still a few TODOs to do in the code.
