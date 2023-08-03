@@ -10,7 +10,7 @@ Also includes the `main.py` template that I use in my personal bot.
  - `git clone https://github.com/freezpmark/music-discord-bot`
  - `cd music-discord-bot`
  - `pip install -r requirements.txt`
- - create credentials for your Google Sheets credentials in json (tutorial for getting in [here](https://lcalcagni.medium.com/how-to-manipulate-google-spreadsheets-using-python-b15657e6ed0d))
+ - create credentials for your Google Sheets credentials in json (tutorial for creating it [here](https://lcalcagni.medium.com/how-to-manipulate-google-spreadsheets-using-python-b15657e6ed0d))
  - create `.env` file in the root directory and set these variables:
 ```env
 GUILD_ID=133713371337133713              # Your server ID
