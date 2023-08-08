@@ -37,7 +37,7 @@ There are also some optional variable settings you can set in `config.json`:
 ## 🔥 Features:
  - enables searching and playing tracks from YouTube
  - supports playing playlist or picking tracks from it
- - real-time audio player that is being updated before every track
+ - real-time audio player that is being updated when a track starts playing
  - button interactivity with the audio player
  - track request tracking system integrated with google sheets
  - track request summarization over certain periods of time
@@ -68,4 +68,4 @@ There are also some optional variable settings you can set in `config.json`:
 ## 👀 Example
 (There will be a gif file added soon that will showcase the usage)  
 
-Also, the app has not yet been fully tested and there are still a few TODOs to do in the code.
+Also, the app has not yet been fully tested and there are still a few TODOs left to do.
